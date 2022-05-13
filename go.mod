@@ -1,4 +1,4 @@
-module douyin
+module byte_douyin
 
 go 1.17
 
